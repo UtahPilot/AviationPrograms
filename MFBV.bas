@@ -1,4 +1,4 @@
-MFBV: Randomize (Time)
+MFBV: Randomize (Timer)
 A: Cls
 Print "----------------------------------------"
 Print "-----   My Favorite Bible Verses   -----"
@@ -89,4 +89,5 @@ Print "have eternal life."
 Print
 Input "Press ENTER";L
 GoTo A
+
 End
